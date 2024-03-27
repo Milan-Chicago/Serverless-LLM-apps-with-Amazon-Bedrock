@@ -22,4 +22,7 @@ In this course, you'll learn the ins and outs of deploying LLM-based application
 
 🔗 To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/short-courses/).
 
+
+![AGF-l79zok-d2N-jJHuaqdOGtIjDghgWN6bcNZZs=s900-c-k-c0xffffffff-no-rj-mo](https://github.com/Milan-Chicago/Serverless-LLM-apps-with-Amazon-Bedrock/blob/main/Screenshot%202024-02-25%20at%202.35.55%E2%80%AFPM.png)
+
 Shipping and Sharing!!!
